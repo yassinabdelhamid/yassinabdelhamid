@@ -3,7 +3,7 @@ Me and the machines.
 
 👋 Hi, I’m Yassin but feel free to call me Habibi
 
-👀 I’m interested in Laravel and Vuejs Frameworks but mostly into you
+👀 I’m interested in Laravel and Vuejs projects but mostly into you
 
 🌱 I just finished my 4 year software developer apprenticeship and work at Cadwork
 
