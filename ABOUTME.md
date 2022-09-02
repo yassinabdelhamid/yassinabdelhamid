@@ -5,7 +5,7 @@ Me and the machines.
 
 👀 I’m interested in Laravel and Vuejs Frameworks but mostly into you
 
-🌱 I’m currently in my last year of a 4 year software developer apprenticeship 
+🌱 I just finished my 4 year software developer apprenticeship and work at Cadwork
 
 💞️ I’m looking to collaborate on all kinds of PHP projects or something new you can show me
 
